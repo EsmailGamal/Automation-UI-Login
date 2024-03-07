@@ -1,0 +1,13 @@
+{
+  "login":{
+    "makerUserType":{
+      "username":"esmailgamal17@gmail.com",
+      "password":"123456789"
+    },
+    "checkerUserType":{
+      "username":"Marwa@gmail.com",
+      "password":"123456789"
+
+    }
+  }
+}
